@@ -20,7 +20,7 @@ class ViewSDKClient {
   previewFile(divId, viewerConfig, url) {
     const config = {
       /* Pass your registered client id */
-      clientId: "b38665fbeadd4ce896557cf8315eea9e",
+      clientId: "538e9a2792014333816b081932382bff",
     };
     // alert(url);
     if (divId) {
